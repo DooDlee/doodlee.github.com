@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <category name="Puerto Rico" description="Surfing and living.">
+        <image thumb="images/thumbs/pr1.jpg" full="images/full/pr1.jpg" />
+        <image thumb="images/thumbs/pr2.jpg" full="images/full/pr2.jpg" />
+		<image thumb="images/thumbs/pr3.jpg" full="images/full/pr3.jpg" />
+		<image thumb="images/thumbs/pr4.jpg" full="images/full/pr4.jpg" />
+		<image thumb="images/thumbs/pr5.jpg" full="images/full/pr5.jpg" />
+		<image thumb="images/thumbs/pr6.jpg" full="images/full/pr6.jpg" />
+		<image thumb="images/thumbs/pr7.jpg" full="images/full/pr7.jpg" />
+		<image thumb="images/thumbs/pr8.jpg" full="images/full/pr8.jpg" />
+    </category>
+    <category name="Dominican Republic" description="Surfing and vacation.">
+        <image thumb="images/thumbs/dr1.jpg" full="images/full/dr1.jpg" />
+        <image thumb="images/thumbs/dr2.jpg" full="images/full/dr2.jpg" />
+		<image thumb="images/thumbs/dr3.jpg" full="images/full/dr3.jpg" />
+		<image thumb="images/thumbs/dr4.jpg" full="images/full/dr4.jpg" />
+		<image thumb="images/thumbs/dr5.jpg" full="images/full/dr5.jpg" />
+    </category>
+    <category name="Puerto Rico" description="Surfing and living.">
+        <image thumb="images/thumbs/pr1.jpg" full="images/full/pr1.jpg" />
+        <image thumb="images/thumbs/pr2.jpg" full="images/full/pr2.jpg" />
+		<image thumb="images/thumbs/pr3.jpg" full="images/full/pr3.jpg" />
+		<image thumb="images/thumbs/pr4.jpg" full="images/full/pr4.jpg" />
+		<image thumb="images/thumbs/pr5.jpg" full="images/full/pr5.jpg" />
+		<image thumb="images/thumbs/pr6.jpg" full="images/full/pr6.jpg" />
+		<image thumb="images/thumbs/pr7.jpg" full="images/full/pr7.jpg" />
+		<image thumb="images/thumbs/pr8.jpg" full="images/full/pr8.jpg" />
+		<image thumb="images/thumbs/pr1.jpg" full="images/full/pr1.jpg" />
+        <image thumb="images/thumbs/pr2.jpg" full="images/full/pr2.jpg" />
+		<image thumb="images/thumbs/pr3.jpg" full="images/full/pr3.jpg" />
+		<image thumb="images/thumbs/pr4.jpg" full="images/full/pr4.jpg" />
+		<image thumb="images/thumbs/pr5.jpg" full="images/full/pr5.jpg" />
+		<image thumb="images/thumbs/pr6.jpg" full="images/full/pr6.jpg" />
+		<image thumb="images/thumbs/pr7.jpg" full="images/full/pr7.jpg" />
+		<image thumb="images/thumbs/pr8.jpg" full="images/full/pr8.jpg" />
+    </category>
+    <category name="Dominican Republic" description="Surfing and vacation.">
+        <image thumb="images/thumbs/dr1.jpg" full="images/full/dr1.jpg" />
+        <image thumb="images/thumbs/dr2.jpg" full="images/full/dr2.jpg" />
+		<image thumb="images/thumbs/dr3.jpg" full="images/full/dr3.jpg" />
+		<image thumb="images/thumbs/dr4.jpg" full="images/full/dr4.jpg" />
+		<image thumb="images/thumbs/dr5.jpg" full="images/full/dr5.jpg" />
+    </category>
+	<category name="Puerto Rico" description="Surfing and living.">
+        <image thumb="images/thumbs/pr1.jpg" full="images/full/pr1.jpg" />
+        <image thumb="images/thumbs/pr2.jpg" full="images/full/pr2.jpg" />
+		<image thumb="images/thumbs/pr3.jpg" full="images/full/pr3.jpg" />
+		<image thumb="images/thumbs/pr4.jpg" full="images/full/pr4.jpg" />
+		<image thumb="images/thumbs/pr5.jpg" full="images/full/pr5.jpg" />
+		<image thumb="images/thumbs/pr6.jpg" full="images/full/pr6.jpg" />
+		<image thumb="images/thumbs/pr7.jpg" full="images/full/pr7.jpg" />
+		<image thumb="images/thumbs/pr8.jpg" full="images/full/pr8.jpg" />
+    </category>
+    <category name="Dominican Republic" description="Surfing and vacation.">
+        <image thumb="images/thumbs/dr1.jpg" full="images/full/dr1.jpg" />
+        <image thumb="images/thumbs/dr2.jpg" full="images/full/dr2.jpg" />
+		<image thumb="images/thumbs/dr3.jpg" full="images/full/dr3.jpg" />
+		<image thumb="images/thumbs/dr4.jpg" full="images/full/dr4.jpg" />
+		<image thumb="images/thumbs/dr5.jpg" full="images/full/dr5.jpg" />
+		<image thumb="images/thumbs/dr1.jpg" full="images/full/dr1.jpg" />
+        <image thumb="images/thumbs/dr2.jpg" full="images/full/dr2.jpg" />
+		<image thumb="images/thumbs/dr3.jpg" full="images/full/dr3.jpg" />
+		<image thumb="images/thumbs/dr4.jpg" full="images/full/dr4.jpg" />
+		<image thumb="images/thumbs/dr5.jpg" full="images/full/dr5.jpg" />
+    </category>
+	<category name="Puerto Rico" description="Surfing and living.">
+        <image thumb="images/thumbs/pr1.jpg" full="images/full/pr1.jpg" />
+        <image thumb="images/thumbs/pr2.jpg" full="images/full/pr2.jpg" />
+		<image thumb="images/thumbs/pr3.jpg" full="images/full/pr3.jpg" />
+		<image thumb="images/thumbs/pr4.jpg" full="images/full/pr4.jpg" />
+		<image thumb="images/thumbs/pr5.jpg" full="images/full/pr5.jpg" />
+		<image thumb="images/thumbs/pr6.jpg" full="images/full/pr6.jpg" />
+		<image thumb="images/thumbs/pr7.jpg" full="images/full/pr7.jpg" />
+		<image thumb="images/thumbs/pr8.jpg" full="images/full/pr8.jpg" />
+    </category>
+    <category name="Dominican Republic" description="Surfing and vacation.">
+        <image thumb="images/thumbs/dr1.jpg" full="images/full/dr1.jpg" />
+        <image thumb="images/thumbs/dr2.jpg" full="images/full/dr2.jpg" />
+		<image thumb="images/thumbs/dr3.jpg" full="images/full/dr3.jpg" />
+		<image thumb="images/thumbs/dr4.jpg" full="images/full/dr4.jpg" />
+		<image thumb="images/thumbs/dr5.jpg" full="images/full/dr5.jpg" />
+    </category>
+    <category name="Puerto Rico" description="Surfing and living.">
+        <image thumb="images/thumbs/pr1.jpg" full="images/full/pr1.jpg" />
+        <image thumb="images/thumbs/pr2.jpg" full="images/full/pr2.jpg" />
+		<image thumb="images/thumbs/pr3.jpg" full="images/full/pr3.jpg" />
+		<image thumb="images/thumbs/pr4.jpg" full="images/full/pr4.jpg" />
+		<image thumb="images/thumbs/pr5.jpg" full="images/full/pr5.jpg" />
+		<image thumb="images/thumbs/pr6.jpg" full="images/full/pr6.jpg" />
+		<image thumb="images/thumbs/pr7.jpg" full="images/full/pr7.jpg" />
+		<image thumb="images/thumbs/pr8.jpg" full="images/full/pr8.jpg" />
+		<image thumb="images/thumbs/pr1.jpg" full="images/full/pr1.jpg" />
+        <image thumb="images/thumbs/pr2.jpg" full="images/full/pr2.jpg" />
+		<image thumb="images/thumbs/pr3.jpg" full="images/full/pr3.jpg" />
+		<image thumb="images/thumbs/pr4.jpg" full="images/full/pr4.jpg" />
+		<image thumb="images/thumbs/pr5.jpg" full="images/full/pr5.jpg" />
+		<image thumb="images/thumbs/pr6.jpg" full="images/full/pr6.jpg" />
+		<image thumb="images/thumbs/pr7.jpg" full="images/full/pr7.jpg" />
+		<image thumb="images/thumbs/pr8.jpg" full="images/full/pr8.jpg" />
+    </category>
+    <category name="Dominican Republic" description="Surfing and vacation.">
+        <image thumb="images/thumbs/dr1.jpg" full="images/full/dr1.jpg" />
+        <image thumb="images/thumbs/dr2.jpg" full="images/full/dr2.jpg" />
+		<image thumb="images/thumbs/dr3.jpg" full="images/full/dr3.jpg" />
+		<image thumb="images/thumbs/dr4.jpg" full="images/full/dr4.jpg" />
+		<image thumb="images/thumbs/dr5.jpg" full="images/full/dr5.jpg" />
+    </category>
+	<category name="Puerto Rico" description="Surfing and living.">
+        <image thumb="images/thumbs/pr1.jpg" full="images/full/pr1.jpg" />
+        <image thumb="images/thumbs/pr2.jpg" full="images/full/pr2.jpg" />
+		<image thumb="images/thumbs/pr3.jpg" full="images/full/pr3.jpg" />
+		<image thumb="images/thumbs/pr4.jpg" full="images/full/pr4.jpg" />
+		<image thumb="images/thumbs/pr5.jpg" full="images/full/pr5.jpg" />
+		<image thumb="images/thumbs/pr6.jpg" full="images/full/pr6.jpg" />
+		<image thumb="images/thumbs/pr7.jpg" full="images/full/pr7.jpg" />
+		<image thumb="images/thumbs/pr8.jpg" full="images/full/pr8.jpg" />
+    </category>
+    <category name="Dominican Republic" description="Surfing and vacation.">
+        <image thumb="images/thumbs/dr1.jpg" full="images/full/dr1.jpg" />
+        <image thumb="images/thumbs/dr2.jpg" full="images/full/dr2.jpg" />
+		<image thumb="images/thumbs/dr3.jpg" full="images/full/dr3.jpg" />
+		<image thumb="images/thumbs/dr4.jpg" full="images/full/dr4.jpg" />
+		<image thumb="images/thumbs/dr5.jpg" full="images/full/dr5.jpg" />
+		<image thumb="images/thumbs/dr1.jpg" full="images/full/dr1.jpg" />
+        <image thumb="images/thumbs/dr2.jpg" full="images/full/dr2.jpg" />
+		<image thumb="images/thumbs/dr3.jpg" full="images/full/dr3.jpg" />
+		<image thumb="images/thumbs/dr4.jpg" full="images/full/dr4.jpg" />
+		<image thumb="images/thumbs/dr5.jpg" full="images/full/dr5.jpg" />
+    </category>
+</gallery>
